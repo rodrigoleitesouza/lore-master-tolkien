@@ -1,5 +1,4 @@
 import gradio as gr
-
 from rag.loader import load_documents
 from rag.vectorstore import create_vectorstore, load_vectorstore
 from rag.qa import get_qa_chain
