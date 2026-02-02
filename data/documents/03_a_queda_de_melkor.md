@@ -1,0 +1,9 @@
+# A Queda de Melkor: A Origem do Mal
+
+**Melkor**, "Aquele que se Eleva em Poder", foi o mais poderoso dos Ainur. Seu desejo não era apenas participar da criação, mas possuí-la e governá-la sozinho, substituindo a luz de Ilúvatar pela sua própria. Sua queda foi um processo lento, alimentado pelo orgulho e pela inveja.
+
+Na **Grande Música**, ele foi a fonte da discórdia. Ao entrar em Eä, seu primeiro ato foi buscar a **Chama Imperecível** – o segredo da criação independente – mas ela reside apenas com Ilúvatar. Frustrado, voltou sua atenção para corromper as obras dos outros Valar. Enquanto Aulë erguia montanhas, Melkor as derrubava; onde Yavanna fazia brotar vida, ele semeava frio e esterilidade.
+
+Seu grande objetivo era impregnar a própria matéria de Arda com sua vontade, um fenômeno que os Elfos mais tarde chamariam de **"A Mácula de Melkor"**. Isso explicaria por que metais podem enferrujar, madeiras apodrecer, e criaturas nascerem deformadas. Ele criou raças de servos terríveis, torturando e corrompendo formas de vida existentes: os primeiros **Orcs** foram provavelmente Elfos capturados e mutilados; os **Trolls**, paródias de Ents; e os **Dragões**, uma terrível fusão de réptil e espírito de fogo maligno.
+
+Durante a **Era das Árvores**, ele se fortaleceu nas **Fortalezas de Utumno** e **Angband**, no extremo norte. Suas ações culminaram no **Envenenamento das Duas Árvores** por Ungoliant e nas **Guerras de Beleriand**. Sua derrota final veio na **Guerra da Ira**, ao final da Primeira Era, quando foi capturado, acorrentado com o **Grilhão Angainor** e lançado pelo **Portão da Noite** para o Vazio Atemporal. No entanto, sua Mácula permaneceu no mundo, e seu mais fiel servo, **Sauron**, herdou seu legado de dominação.

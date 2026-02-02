@@ -1,0 +1,5 @@
+O Orion é um Knowledge Assistant interno utilizado por colaboradores da AuroraTech.
+
+Seu principal objetivo é permitir consultas rápidas a documentos como políticas internas, manuais técnicos e decisões arquiteturais.
+
+O Orion utiliza modelos de linguagem de grande porte e uma arquitetura baseada em RAG (Retrieval-Augmented Generation).

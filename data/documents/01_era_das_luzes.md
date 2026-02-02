@@ -1,0 +1,9 @@
+# A Era das Luzes: A Canção dos Ainur e a Formação de Arda
+
+Antes do tempo, existia apenas Eru Ilúvatar, O Único. Em sua mente, concebeu os Ainur, os Sagrados, e propôs a eles temas de música. Cantaram, e sua harmonia deu forma à **Grande Música**, uma visão do mundo que seria. Porém, Melkor, o mais poderoso dos Ainur, desejou inserir sua própria vontade e introduziu temas de discórdia, criando o primeiro conflito.
+
+Ilúvatar então revelou a visão gerada pela música como um esplendor no Vazio: **Eä**, o Mundo que É. Muitos Ainur, tomados de amor por essa criação, decidiram entrar nela para dar forma à sua visão. Estes foram os **Valar** (os Poderes) e os **Maiar** (seus servidores).
+
+Nos vastos salões do tempo, eles iniciaram o **Grande Trabalho**, moldando Arda (a Terra) a partir da matéria primordial. Por eras incontáveis, ergueram montanhas, cavaram vales e encheram bacias com os primeiros mares. Melkor, no entanto, cobiçava Arda para si e repetidamente destruía e corrompia as obras dos Valar, dando origem aos primeiros terremotos, vulcões e desertos estéreis.
+
+A era culminou com o **Acender das Duas Grandes Lâmpadas**, Illuin e Ormal, colocadas nos Pilares do Norte e do Sul. Sob sua luz igual, Arda floresceu em perfeita simetria, e os primeiros seres vivos – plantas, animais de formas estranhas e belas – surgiram. Este foi o tempo da **Primavera de Arda**. No entanto, Melkor, em ódio secreto, derrubou as Lâmpadas. Sua queda devastou o mundo, criando os **Mares Interiores** e as **Terras Sombrias**, e terminou para sempre a simetria perfeita. Os Valar então retiraram-se para a região mais ocidental, **Aman**, e levantaram as **Montanhas Circundantes** para protegê-la, dando início à **Era das Árvores**.

@@ -1,0 +1,5 @@
+A AuroraTech foi fundada em 2018 com o objetivo de criar soluções de inteligência artificial voltadas para uso corporativo interno.
+
+Desde sua fundação, a empresa adotou uma filosofia de desenvolvimento local-first, priorizando segurança, privacidade e controle total dos dados.
+
+Em 2021, a AuroraTech iniciou o projeto Orion, um assistente de conhecimento interno capaz de responder perguntas a partir de documentos corporativos.
