@@ -1,5 +1,6 @@
 from pathlib import Path
 
+
 # Diretório base do projeto (onde está o config.py)
 BASE_DIR = Path(__file__).resolve().parent
 
